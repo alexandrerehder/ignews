@@ -35,7 +35,7 @@ $ mv .env.example .env.local
 Para o funcionamento do login com um usuário Github, é necessário que algumas configurações sejam feitas.
 
 1. Acesse seu Github
-1.1 Clique em Settings -> Developer settings -> New OAuth App  
+1.1 Clique em Settings -> Developer settings -> New OAuth App
 1.2 Faça o registro com os dados da aplicação:
   - Application name: ig.news (Dev) - Caso precise criar um para prod, não terá problema com o nome
   - Homepage URL: http://localhost:3000/
