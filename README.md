@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="400" height="400" style="border-radius: 10px" src="./Front-End/src/assets/VxTel.gif" alt="Banner">
+    <img width="400" height="400" style="border-radius: 10px" src="./public/images/avatar.svg" alt="Banner">
 </p>
 
 ##
