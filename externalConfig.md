@@ -50,7 +50,7 @@ GITHUB_CLIENT_SECRET= Client secrets -> Generate a new client secret
 
 Etapa de criação e configuração do banco de dados 
 
-<h4>Criação do banco<h4>
+<h4>Criação do banco</h4>
 
 1. Acesse: https://fauna.com/
 1.1 Faça o login ou se cadastre -> Clique em Create Database
@@ -58,7 +58,7 @@ Etapa de criação e configuração do banco de dados
   - Name: Nome do banco (qualquer)
   - Region Group: Classic (Selecionar outro grupo de região pode ocasionar problemas na aplicação posteriormente)
 
-<h4>Criação da collections<h4>
+<h4>Criação da collections</h4>
 
 2. Clique em "Collections" -> New Collection -> 
 2.1 Preencha os campos com:
@@ -69,7 +69,7 @@ Etapa de criação e configuração do banco de dados
   - Collection Name: users
   - History Days: 30
 
-<h4>Criação dos indexes<h4>
+<h4>Criação dos indexes</h4>
 
 3. Clique em "Indexes" -> New Index -> 
 3.1 Selecione ou preencha os campos com:
