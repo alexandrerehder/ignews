@@ -35,8 +35,7 @@ $ mv .env.example .env.local
 Para o funcionamento do login com um usuário Github, é necessário que algumas configurações sejam feitas.
 
 1. Acesse seu Github
-1.1 Clique em Settings -> Developer settings -> New OAuth App  
-1.2 Faça o registro com os dados da aplicação:
+1.1 Clique em Settings -> Developer settings -> New OAuth App -> Faça o registro com os dados da aplicação:
   - Application name: ig.news (Dev) - Caso precise criar um para prod, não terá problema com o nome
   - Homepage URL: http://localhost:3000/
   - Authorization callback URL: http://localhost:3000/api/auth/callback
@@ -47,7 +46,7 @@ GITHUB_CLIENT_ID= Client ID
 
 GITHUB_CLIENT_SECRET= Client secrets -> Generate a new client secret
 
- ## 🔃 FaunaDB
+ ## 🕊 FaunaDB
 
 Etapa de criação e configuração do banco de dados 
 
@@ -114,7 +113,7 @@ Etapa de criação e configuração do banco de dados
   
 4.1 Copie a secret key -> Cole em "FAUNADB_KEY="
 
- ## 🔃 Prismic CMS
+ ## 📰 Prismic CMS
 
 Etapa de criação e configuração do banco de dados 
 
