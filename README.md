@@ -15,7 +15,7 @@
     
 ## 💻 Sobre o projeto 
 
-💡 IgNews - IgNews - Consiste na ideia de um blog voltado a tecnologia, com foco em atualizações, novas funcionalidades e curiosidades sobre React. 
+💡 IgNews - Consiste na ideia de um blog voltado a tecnologia, com foco em atualizações, novas funcionalidades e curiosidades sobre React. 
 Onde com uma sessão comum é possível apenas ter um preview dos posts. Para ter acesso ao conteúdo completo é necessário login e o pagamento de uma taxa
 de R$ 9,90 por mês. Desenvolvido com base na trilha Ignite React.js - RocketSeat.
 
