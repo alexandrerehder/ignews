@@ -51,8 +51,8 @@ Antes de começar, é preciso ter instalado em sua máquina as seguintes ferrame
 # Clone este repositório
 $ git clone https://github.com/alexandrerehder/ignews
 
-# Execute stripe listen para ouvir eventos do webhook
-$ stripe listen --forward-to localhost:3000/api/webhooks 
+# Antes de executar o projeto, siga o arquivo contendo as configurações das API's externas
+$ ignews/externalConfig.md
 
 # Acesse a pasta do projeto, instale as dependências e inicie a aplicação
 $ cd ignews && yarn && yarn dev
